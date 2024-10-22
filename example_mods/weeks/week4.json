@@ -1,0 +1,49 @@
+{
+	"storyName": "hes gonna stick it in you..?",
+	"difficulties": "Hard",
+	"hideFreeplay": false,
+	"weekBackground": "rematch",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"weekBefore": "week8",
+	"startUnlocked": true,
+	"songs": [
+		[
+			"retake",
+			"sfworried",
+			[
+				146,
+				113,
+				115
+			]
+		],
+		[
+			"reunion",
+			"sfnormal",
+			[
+				146,
+				113,
+				115
+			]
+		],
+		[
+			"send-off",
+			"sfsad",
+			[
+				60,
+				133,
+				253
+			]
+		]
+	],
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"hideStoryMode": false,
+	"weekName": "rematch"
+}

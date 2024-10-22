@@ -36,6 +36,7 @@ jobs:
           sudo apt-get install libvlccore-dev
           haxelib setup ~/haxelib
           haxelib install hxcpp > /dev/null --quiet
+          haxelib install hxvlc 1.9.2 --quiet
           chmod +x ./setup/unix.sh
           sh ./setup/unix.sh
       - name: Skip SScript setup mode

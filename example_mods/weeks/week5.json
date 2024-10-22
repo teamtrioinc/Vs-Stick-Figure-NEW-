@@ -1,0 +1,41 @@
+{
+	"songs": [
+		[
+			"power-hungry",
+			"cvtemp",
+			[
+				255,
+				0,
+				15
+			]
+		],
+		[
+			"surgent",
+			"cvtemp",
+			[
+				255,
+				0,
+				15
+			]
+		]
+	],
+	"hiddenUntilUnlocked": false,
+	"hideFreeplay": false,
+	"weekBackground": "cv",
+	"difficulties": "",
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"storyName": "Commanding of the Video",
+	"weekName": "Commander Video",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"hideStoryMode": false,
+	"weekBefore": "tutorial",
+	"startUnlocked": true
+}

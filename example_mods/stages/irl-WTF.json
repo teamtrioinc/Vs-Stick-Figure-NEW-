@@ -1,0 +1,320 @@
+{
+	"camera_boyfriend": [
+		0,
+		0
+	],
+	"preload": {
+		"images/stageback": 3,
+		"images/stagefront": 3,
+		"images/stagecurtains": 2,
+		"images/stage_light": 2
+	},
+	"_editorMeta": {
+		"boyfriend": "scared bf",
+		"dad": "jude irl ANGY",
+		"gf": "nothing"
+	},
+	"boyfriend": [
+		910,
+		200
+	],
+	"stageUI": "",
+	"girlfriend": [
+		220,
+		130
+	],
+	"camera_girlfriend": [
+		0,
+		0
+	],
+	"defaultZoom": 0.75,
+	"objects": [
+		{
+			"x": -842,
+			"y": -281,
+			"scale": [
+				1,
+				1
+			],
+			"image": "irl",
+			"flipX": false,
+			"filters": 3,
+			"color": "FF0000",
+			"angle": 0,
+			"name": "sprite1",
+			"antialiasing": true,
+			"flipY": false,
+			"scroll": [
+				1,
+				1
+			],
+			"alpha": 1,
+			"type": "sprite"
+		},
+		{
+			"x": -310,
+			"y": 61,
+			"scale": [
+				0.4,
+				0.4
+			],
+			"image": "gay1",
+			"flipX": false,
+			"filters": 3,
+			"color": "FF0000",
+			"angle": 0,
+			"name": "sprite7",
+			"antialiasing": true,
+			"flipY": false,
+			"scroll": [
+				1,
+				1
+			],
+			"alpha": 1,
+			"type": "sprite"
+		},
+		{
+			"x": 1015,
+			"y": 344,
+			"scale": [
+				1,
+				1
+			],
+			"image": "phonefigure",
+			"flipX": false,
+			"filters": 3,
+			"color": "FF0000",
+			"angle": 0,
+			"name": "sprite3",
+			"firstAnimation": "idle",
+			"antialiasing": true,
+			"flipY": false,
+			"scroll": [
+				1,
+				1
+			],
+			"alpha": 1,
+			"animations": [
+				{
+					"offsets": null,
+					"loop": false,
+					"fps": 24,
+					"anim": "idle",
+					"indices": [],
+					"name": "idle"
+				}
+			],
+			"type": "animatedSprite"
+		},
+		{
+			"x": -109,
+			"y": 264,
+			"scale": [
+				0.6,
+				0.6
+			],
+			"image": "aidaenkeptbeggingformetoaddhimtoirlsohere",
+			"flipX": false,
+			"filters": 3,
+			"color": "FF0000",
+			"angle": 0,
+			"name": "sprite2",
+			"firstAnimation": "idle",
+			"antialiasing": true,
+			"flipY": false,
+			"scroll": [
+				1,
+				1
+			],
+			"alpha": 1,
+			"animations": [
+				{
+					"offsets": null,
+					"loop": false,
+					"fps": 24,
+					"anim": "idle",
+					"indices": [],
+					"name": "idle"
+				}
+			],
+			"type": "animatedSprite"
+		},
+		{
+			"x": -520,
+			"y": 169,
+			"scale": [
+				1.2,
+				1.2
+			],
+			"image": "theboys",
+			"flipX": false,
+			"filters": 3,
+			"color": "FF0000",
+			"angle": 0,
+			"name": "sprite4",
+			"firstAnimation": "idle",
+			"antialiasing": true,
+			"flipY": false,
+			"scroll": [
+				1,
+				1
+			],
+			"alpha": 1,
+			"animations": [
+				{
+					"loop": false,
+					"offsets": null,
+					"anim": "idle",
+					"fps": 24,
+					"name": "idle",
+					"indices": []
+				}
+			],
+			"type": "animatedSprite"
+		},
+		{
+			"type": "gf"
+		},
+		{
+			"type": "dad"
+		},
+		{
+			"x": 843,
+			"y": 309,
+			"scale": [
+				1.2,
+				1.2
+			],
+			"image": "drugaddictmario",
+			"flipX": false,
+			"filters": 3,
+			"color": "FF0000",
+			"angle": 0,
+			"name": "sprite5",
+			"firstAnimation": "idle",
+			"antialiasing": true,
+			"flipY": false,
+			"scroll": [
+				1,
+				1
+			],
+			"alpha": 1,
+			"animations": [
+				{
+					"offsets": null,
+					"loop": false,
+					"fps": 24,
+					"anim": "idle",
+					"indices": [],
+					"name": "idle"
+				}
+			],
+			"type": "animatedSprite"
+		},
+		{
+			"type": "boyfriend"
+		},
+		{
+			"x": -745,
+			"y": -324,
+			"scale": [
+				1,
+				1
+			],
+			"image": "crowd",
+			"flipX": false,
+			"filters": 3,
+			"color": "FF0000",
+			"angle": 0,
+			"name": "sprite6",
+			"firstAnimation": "idle",
+			"antialiasing": true,
+			"flipY": false,
+			"scroll": [
+				1,
+				1
+			],
+			"alpha": 1,
+			"animations": [
+				{
+					"offsets": [
+						0,
+						10
+					],
+					"loop": true,
+					"fps": 24,
+					"anim": "idle",
+					"indices": [],
+					"name": "idle"
+				}
+			],
+			"type": "animatedSprite"
+		},
+		{
+			"x": -1176,
+			"y": -500,
+			"scale": [
+				1,
+				1
+			],
+			"image": "static",
+			"flipX": false,
+			"filters": 3,
+			"color": "FFFFFF",
+			"angle": 0,
+			"name": "sprite9",
+			"firstAnimation": "static",
+			"antialiasing": true,
+			"flipY": false,
+			"scroll": [
+				0.3,
+				0.3
+			],
+			"alpha": 0.3,
+			"animations": [
+				{
+					"offsets": null,
+					"indices": [],
+					"fps": 24,
+					"anim": "static",
+					"loop": true,
+					"name": "static"
+				}
+			],
+			"type": "animatedSprite"
+		},
+		{
+			"x": -322,
+			"y": -161,
+			"scale": [
+				0.8,
+				0.8
+			],
+			"image": "comicglitch2",
+			"flipX": false,
+			"filters": 3,
+			"color": "FFFFFF",
+			"angle": 0,
+			"name": "sprite8",
+			"antialiasing": true,
+			"flipY": false,
+			"scroll": [
+				0,
+				0
+			],
+			"alpha": 1,
+			"type": "sprite"
+		}
+	],
+	"opponent": [
+		40,
+		260
+	],
+	"directory": "week1",
+	"camera_speed": 1,
+	"hide_girlfriend": false,
+	"camera_opponent": [
+		0,
+		0
+	]
+}
